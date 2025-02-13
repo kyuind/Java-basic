@@ -6,6 +6,5 @@ public class Pakckge01 {
         data.value = 72;
         System.out.print(data);
 
-        Class.
     }
 }
