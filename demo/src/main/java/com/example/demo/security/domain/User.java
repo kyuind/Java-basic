@@ -19,7 +19,7 @@ public class User {
     private String username;
     private String password;
     private String email;
-    private String roler;
+    private String role;
     @CreationTimestamp //생성일자 자동입력
     private Timestamp createDate;
 }
